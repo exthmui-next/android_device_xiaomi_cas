@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2019 The PixelExperience Project
+# Copyright (C) 2020 Project 404
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cafex_cmi.mk
+    $(LOCAL_DIR)/p404_cmi.mk
 
 COMMON_LUNCH_CHOICES := \
-    cafex_cmi-user \
-    cafex_cmi-userdebug \
-    cafex_cmi-eng
+    p404_cmi-user \
+    p404_cmi-userdebug \
+    p404_cmi-eng
