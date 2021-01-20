@@ -133,7 +133,8 @@ PRODUCT_COPY_FILES += \
 
 # Namespaces
 PRODUCT_SOONG_NAMESPACES += \
-    device/xiaomi/cmi
+    device/xiaomi/cmi \
+    vendor/qcom/opensource/commonsys/packages/apps/Bluetooth
 
 # Net
 PRODUCT_PACKAGES += \
