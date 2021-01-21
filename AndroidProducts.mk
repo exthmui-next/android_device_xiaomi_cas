@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/p404_cmi.mk
+    $(LOCAL_DIR)/arrow_cmi.mk
 
 COMMON_LUNCH_CHOICES := \
-    p404_cmi-user \
-    p404_cmi-userdebug \
-    p404_cmi-eng
+    arrow_cmi-user \
+    arrow_cmi-userdebug \
+    arrow_cmi-eng
