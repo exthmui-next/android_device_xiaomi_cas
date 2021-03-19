@@ -24,7 +24,7 @@ $(call inherit-product, vendor/arrow/config/common.mk)
 PRODUCT_NAME := arrow_cmi
 PRODUCT_DEVICE := cmi
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := MI 10 Pro
+PRODUCT_MODEL := Mi 10 Pro
 PRODUCT_MANUFACTURER := Xiaomi
 DEVICE_MAINTAINER := ChaptSand
 
