@@ -23,7 +23,7 @@
 
 BUILD_BROKEN_DUP_RULES := true
 
-DEVICE_PATH := device/xiaomi/cmi
+DEVICE_PATH := device/xiaomi/cas
 
 # Architecture
 TARGET_ARCH := arm64
@@ -44,7 +44,7 @@ TARGET_2ND_CPU_VARIANT_RUNTIME := cortex-a75
 DEXPREOPT_GENERATE_APEX_IMAGE := true
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := cmi
+TARGET_OTA_ASSERT_DEVICE := cas
 
 # Audio
 USE_CUSTOM_AUDIO_POLICY := 1

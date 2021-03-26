@@ -18,7 +18,7 @@
 
 set -e
 
-DEVICE=cmi
+DEVICE=cas
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks

@@ -1,7 +1,7 @@
 [
   {
-    "repository": "android_vendor_xiaomi_cmi",
-    "target_path": "vendor/xiaomi/cmi"
+    "repository": "android_vendor_xiaomi_cas",
+    "target_path": "vendor/xiaomi/cas"
   },
   {
     "repository": "android_packages_apps_GCamGOPrebuilt",

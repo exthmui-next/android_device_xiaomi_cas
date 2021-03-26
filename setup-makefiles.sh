@@ -18,7 +18,7 @@
 
 set -e
 
-DEVICE=cmi
+DEVICE=cas
 VENDOR=xiaomi
 
 INITIAL_COPYRIGHT_YEAR=2021
