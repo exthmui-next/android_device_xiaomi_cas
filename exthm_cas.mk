@@ -18,15 +18,15 @@
 $(call inherit-product, device/xiaomi/cas/kona.mk)
 
 # Inherit some common Arrow stuff.
-$(call inherit-product, vendor/arrow/config/common.mk)
+$(call inherit-product, vendor/exthm/config/common.mk)
 
 # Override build properties
-PRODUCT_NAME := arrow_cas
+PRODUCT_NAME := exthm_cas
 PRODUCT_DEVICE := cas
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := M2007J1SC
 PRODUCT_MANUFACTURER := Xiaomi
-DEVICE_MAINTAINER := Xayah
+DEVICE_MAINTAINER := SakuraiLH
 
 PRODUCT_CHARACTERISTICS := nosdcard
 
